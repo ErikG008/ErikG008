@@ -1,4 +1,4 @@
-<h3 align="left">Estudante de Eng. Software</h3>
+<h3 align="left">Estudante de Eng Software</h3>
 
 ###
 
