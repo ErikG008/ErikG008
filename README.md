@@ -1,4 +1,4 @@
-<h4 align="left">Estudante Eng. Software</h4>
+<h4 align="left">Software Engineering Student 🎓📚</h4>
 
 ###
 
